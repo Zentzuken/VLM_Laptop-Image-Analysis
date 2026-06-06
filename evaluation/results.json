@@ -1,0 +1,202 @@
+[
+  {
+    "ground_truth": "MSI Pulse 17 B13VGK",
+    "retrieved": [
+      "Lenovo ThinkPad P1 G6-21FV000DGE",
+      "MSI GE78HX 13VH-070US",
+      "MSI Stealth 14 Studio A13V",
+      "HP ZBook Power 15 G9 6B8C4EA",
+      "MSI Katana GF66 12UGS"
+    ]
+  },
+  {
+    "ground_truth": "Acer Aspire 5 Spin 14",
+    "retrieved": [
+      "Dell Precision 5480",
+      "Razer Blade 14 RTX 4070",
+      "MSI Vector 17 HX AI A2XWIG",
+      "Lenovo IdeaPad Duet 5 Chromebook",
+      "Lenovo ThinkPad Z16 Gen 2"
+    ]
+  },
+  {
+    "ground_truth": "Asus ROG Zephyrus Duo 16 GX650RX",
+    "retrieved": [
+      "Lenovo Yoga Slim 7i Pro 14IAP G7",
+      "Lenovo ThinkPad T14 G5 21ML005JGE",
+      "Asus ROG Strix Scar 17 G733PY-XS96",
+      "HP ZBook Firefly 14 G11",
+      "Lenovo ThinkPad X1 Carbon G10 21CC001RGE"
+    ]
+  },
+  {
+    "ground_truth": "Dell XPS 16 Core Ultra X7 358H",
+    "retrieved": [
+      "Dell Inspiron 14 5425 6VPKR",
+      "MSI Claw A8 BZ2EM",
+      "MSI Alpha 15 B5EEK-008",
+      "Asus ZenBook Duo OLED UX8406CA",
+      "Acer Swift 3 SF314-71-56U3"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo Legion 5 17ACH6H-82JY0003GE",
+    "retrieved": [
+      "Lenovo IdeaPad Duet 5 Chromebook",
+      "MSI GE78HX 13VH-070US",
+      "HP ZBook Studio 16 G11",
+      "Lenovo Yoga 7 2-in-1 16AGP11",
+      "Dell Precision 5480"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo Yoga 7 14 2in1 G10",
+    "retrieved": [
+      "Dell Precision 5480",
+      "Lenovo ThinkPad T16 Gen 3 21MN005XGE",
+      "Asus ExpertBook Ultra B9406CAA",
+      "MSI Stealth 14 Studio A13V",
+      "Razer Blade 14 RTX 4070"
+    ]
+  },
+  {
+    "ground_truth": "Gigabyte G5 KE",
+    "retrieved": [
+      "MSI Katana GF66 12UGS",
+      "Gigabyte G5 KE",
+      "Dell Precision 5480",
+      "Lenovo Yoga Slim 7i Pro 14IAP G7",
+      "HP ZBook Studio 16 G11"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo ThinkPad T14s G3 21BR00CDGE",
+    "retrieved": [
+      "MSI GE78HX 13VH-070US",
+      "MSI Stealth 14 Studio A13V",
+      "MSI Titan 18 HX A14VIG",
+      "Lenovo ThinkPad X13s Gen 1 21BX000QGE",
+      "Lenovo Chromebook Plus 14, Kompanio Ultra 910"
+    ]
+  },
+  {
+    "ground_truth": "Gigabyte A5 X1",
+    "retrieved": [
+      "Lenovo Yoga Slim 7i Pro 14IAP G7",
+      "Asus ROG Strix Scar 17 G733PY-XS96",
+      "Lenovo ThinkPad T14 G5 21ML005JGE",
+      "Lenovo ThinkPad E16 G1 Core i5-1335U",
+      "Dell Latitude 14 5420-D2G5W"
+    ]
+  },
+  {
+    "ground_truth": "Acer Aspire Go AG15-51P-56UR",
+    "retrieved": [
+      "Lenovo Yoga 7 2-in-1 16AGP11",
+      "Asus ExpertBook Ultra B9406CAA",
+      "Lenovo ThinkPad T16 G2 21HH003AGE",
+      "MSI Thin GF63 12VE",
+      "Dell 16 Premium DA16250"
+    ]
+  },
+  {
+    "ground_truth": "HP OmniBook X 14",
+    "retrieved": [
+      "MSI Stealth 14 Studio A13V",
+      "Asus ZenBook Duo OLED UX8406CA",
+      "HP ZBook Ultra G1a A3ZQ0ET",
+      "Dell Latitude 9450 2-in-1",
+      "Lenovo IdeaPad Duet 5 Chromebook"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo IdeaPad Pro 5 16IMH G9",
+    "retrieved": [
+      "MSI Stealth 14 Studio A13V",
+      "Asus ZenBook Duo OLED UX8406CA",
+      "Dell Precision 5480",
+      "Dell Inspiron 14 5425 6VPKR",
+      "Dell Latitude 9450 2-in-1"
+    ]
+  },
+  {
+    "ground_truth": "Asus ExpertBook PM3406",
+    "retrieved": [
+      "Asus ZenBook Duo OLED UX8406CA",
+      "Asus VivoBook 14X K3405",
+      "MSI Alpha 15 B5EEK-008",
+      "Lenovo ThinkPad T16 Gen 1 Core i7-1270P",
+      "MSI Vector 16 HX A14V"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo Yoga 7 16IAP7",
+    "retrieved": [
+      "Razer Blade 14 RTX 4070",
+      "Dell Inspiron 14 5425 6VPKR",
+      "Lenovo ThinkPad T14s G3 21CQ002LGE",
+      "Dell Precision 5480",
+      "HP ZBook Power 15 G10"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo ThinkPad X13 Yoga G3 21AW003UGE",
+    "retrieved": [
+      "Lenovo ThinkPad P1 G6-21FV000DGE",
+      "HP ZBook Ultra G1a A3ZQ0ET",
+      "HP ZBook Power 15 G9 6B8C4EA",
+      "Lenovo IdeaPad Duet 5 Chromebook",
+      "Asus ExpertBook Ultra B9406CAA"
+    ]
+  },
+  {
+    "ground_truth": "Asus ROG Strix Scar 17 G733PY-XS96",
+    "retrieved": [
+      "Lenovo Yoga Slim 7i Pro 14IAP G7",
+      "Asus ROG Strix Scar 17 G733PY-XS96",
+      "Lenovo ThinkPad T14 G5 21ML005JGE",
+      "Lenovo Yoga 7 2-in-1 14AKP10",
+      "Dell Latitude 14 5420-D2G5W"
+    ]
+  },
+  {
+    "ground_truth": "MSI Katana GF66 12UGS",
+    "retrieved": [
+      "MSI Katana GF66 12UGS",
+      "Dell Precision 5480",
+      "Lenovo Yoga Book 9i 2-in-1 Dual Screen",
+      "LG gram Pro 16Z90SP",
+      "MSI GE78HX 13VH-070US"
+    ]
+  },
+  {
+    "ground_truth": "Lenovo Yoga Slim 7 14AKP G10",
+    "retrieved": [
+      "MSI Stealth 14 Studio A13V",
+      "Lenovo IdeaPad Duet 5 Chromebook",
+      "Asus ExpertBook Ultra B9406CAA",
+      "Dell Precision 5480",
+      "Lenovo ThinkPad T16 Gen 3 21MN005XGE"
+    ]
+  },
+  {
+    "ground_truth": "Acer Chromebook 514 CB514-1WT-36DP",
+    "retrieved": [
+      "Dell Precision 5480",
+      "Lenovo IdeaPad Duet 5 Chromebook",
+      "Asus TUF Gaming A14 FA401WV-WB94",
+      "Dell Latitude 9450 2-in-1",
+      "Lenovo ThinkPad Z16 Gen 2"
+    ]
+  },
+  {
+    "ground_truth": "HP EliteBook 845 G9 6F6H6EA",
+    "retrieved": [
+      "Asus ZenBook Duo OLED UX8406CA",
+      "MSI Stealth 14 Studio A13V",
+      "Samsung Galaxy Book6 Pro",
+      "HP Omen 16-wf000",
+      "Asus ExpertBook B5 B5605CCA"
+    ]
+  }
+]

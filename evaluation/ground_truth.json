@@ -1,0 +1,222 @@
+[
+  {
+    "image": "gt_000.jpg",
+    "title": "MSI Pulse 17 B13VGK",
+    "brand": "MSI",
+    "specs": {
+      "brand": "MSI",
+      "gpu": "RTX 4070",
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_001.jpg",
+    "title": "Acer Aspire 5 Spin 14",
+    "brand": "ACER",
+    "specs": {
+      "brand": "ACER",
+      "gpu": null,
+      "cpu": "i5-1335u",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_002.jpg",
+    "title": "Asus ROG Zephyrus Duo 16 GX650RX",
+    "brand": "ASUS",
+    "specs": {
+      "brand": "ASUS",
+      "gpu": "RTX 3080",
+      "cpu": "ryzen 9 6900hx",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_003.jpg",
+    "title": "Dell XPS 16 Core Ultra X7 358H",
+    "brand": "DELL",
+    "specs": {
+      "brand": "DELL",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_004.jpg",
+    "title": "Lenovo Legion 5 17ACH6H-82JY0003GE",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": "RTX 3060",
+      "cpu": "ryzen 5 5600h",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_005.jpg",
+    "title": "Lenovo Yoga 7 14 2in1 G10",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": null,
+      "cpu": null,
+      "ram": "32GB"
+    }
+  },
+  {
+    "image": "gt_006.jpg",
+    "title": "Gigabyte G5 KE",
+    "brand": "UNKNOWN",
+    "specs": {
+      "brand": "UNKNOWN",
+      "gpu": "RTX 3060",
+      "cpu": "i5-12500h",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_007.jpg",
+    "title": "Lenovo ThinkPad T14s G3 21BR00CDGE",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": null,
+      "cpu": "i5-1235u",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_008.jpg",
+    "title": "Gigabyte A5 X1",
+    "brand": "UNKNOWN",
+    "specs": {
+      "brand": "UNKNOWN",
+      "gpu": "RTX 3070",
+      "cpu": "ryzen 9 5900hx",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_009.jpg",
+    "title": "Acer Aspire Go AG15-51P-56UR",
+    "brand": "ACER",
+    "specs": {
+      "brand": "ACER",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_010.jpg",
+    "title": "HP OmniBook X 14",
+    "brand": "HP",
+    "specs": {
+      "brand": "HP",
+      "gpu": null,
+      "cpu": "snapdragon x elite",
+      "ram": "16GB"
+    }
+  },
+  {
+    "image": "gt_011.jpg",
+    "title": "Lenovo IdeaPad Pro 5 16IMH G9",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": "ARC GRAPHICS",
+      "cpu": "core ultra 7 155h",
+      "ram": "32GB"
+    }
+  },
+  {
+    "image": "gt_012.jpg",
+    "title": "Asus ExpertBook PM3406",
+    "brand": "ASUS",
+    "specs": {
+      "brand": "ASUS",
+      "gpu": null,
+      "cpu": "ryzen ai 7 350",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_013.jpg",
+    "title": "Lenovo Yoga 7 16IAP7",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": "ARC GRAPHICS",
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_014.jpg",
+    "title": "Lenovo ThinkPad X13 Yoga G3 21AW003UGE",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_015.jpg",
+    "title": "Asus ROG Strix Scar 17 G733PY-XS96",
+    "brand": "ASUS",
+    "specs": {
+      "brand": "ASUS",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_016.jpg",
+    "title": "MSI Katana GF66 12UGS",
+    "brand": "MSI",
+    "specs": {
+      "brand": "MSI",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_017.jpg",
+    "title": "Lenovo Yoga Slim 7 14AKP G10",
+    "brand": "LENOVO",
+    "specs": {
+      "brand": "LENOVO",
+      "gpu": null,
+      "cpu": "ryzen ai 7 350",
+      "ram": "32GB"
+    }
+  },
+  {
+    "image": "gt_018.jpg",
+    "title": "Acer Chromebook 514 CB514-1WT-36DP",
+    "brand": "ACER",
+    "specs": {
+      "brand": "ACER",
+      "gpu": null,
+      "cpu": "i3-1115g",
+      "ram": null
+    }
+  },
+  {
+    "image": "gt_019.jpg",
+    "title": "HP EliteBook 845 G9 6F6H6EA",
+    "brand": "HP",
+    "specs": {
+      "brand": "HP",
+      "gpu": null,
+      "cpu": null,
+      "ram": null
+    }
+  }
+]

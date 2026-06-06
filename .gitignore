@@ -1,0 +1,117 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Build / Distribution
+# -------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# IDE
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Environment Variables
+# -------------------------
+.env
+.env.*
+
+# -------------------------
+# Model Checkpoints
+# -------------------------
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# -------------------------
+# FAISS Indexes
+# -------------------------
+*.faiss
+*.index
+
+# -------------------------
+# Dataset Artifacts
+# -------------------------
+dataset/cache/
+dataset/temp/
+
+# Uncomment if dataset is large and reproducible
+# dataset/
+
+# -------------------------
+# Evaluation Outputs
+# -------------------------
+evaluation/results/
+evaluation/plots/
+evaluation/reports/
+
+# -------------------------
+# Generated Embeddings
+# -------------------------
+embeddings/
+*.npz
+*.npy
+*.pickle
+*.pkl
+
+# -------------------------
+# Hugging Face Cache
+# -------------------------
+.cache/
+huggingface/
+hf_cache/
+
+# -------------------------
+# Ollama
+# -------------------------
+ollama_cache/
+
+# -------------------------
+# Temporary Files
+# -------------------------
+tmp/
+temp/
+*.tmp
+
+venv/
+
+# Large trained models
+fine_tuned_clip/checkpoint*/
+fine_tuned_clip/runs/
+fine_tuned_clip/*.pt
+fine_tuned_clip/*.pth
+
+# Generated evaluation outputs
+evaluation/results/
+evaluation/plots/
