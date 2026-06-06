@@ -19,7 +19,7 @@ How to use project
 - Run scrapper to add more dataset
 - run 'test_dataset.py' to check if dataset has missing values
 
-- - Optional run 'train_clip.py' if wants to use the preset fine-tune with a higher epoch value
+- run 'train_clip.py' if wants to use the preset fine-tune with a higher epoch value
 
 - run 'rebuild_embeddings.py' 
 - - re-run whenever changing models, makes sure to switch to desired model inside of the script
